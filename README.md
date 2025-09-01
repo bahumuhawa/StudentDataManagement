@@ -30,7 +30,7 @@ A simple Python program to manage student grades. This program allows you to:
 ### Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/student-grades.git
+   git clone https://github.com/bahumuhawa/StudentDataManagement
 
 
 Usage
@@ -67,4 +67,5 @@ You will see output showing:
 - Student: Hawa, Grade: 74
 
 🤝 Contributing
+
 Feel free to fork the repository and submit pull requests to improve the program. 💡
