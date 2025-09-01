@@ -45,28 +45,26 @@ You will see output showing:
 - ✅ Students with grades above 80
 - 🔝 Students sorted by grade in descending order
 
-Example Output
-All Students:
-Student: Alice, Grade: 85
-Student: Bob, Grade: 78
-Student: Charlie, Grade: 92
-Student: Umu, Grade: 88
-Student: Hawa, Grade: 74
+**Example Output - All Students:**
+- Student: Alice, Grade: 85
+- Student: Bob, Grade: 78
+- Student: Charlie, Grade: 92
+- Student: Umu, Grade: 88
+- Student: Hawa, Grade: 74
 
-Average Grade: 83.40
+**Average Grade: 83.40**
 
-Passing Students (grade > 80):
-Student: Alice, Grade: 85
-Student: Charlie, Grade: 92
-Student: Umu, Grade: 88
+**Passing Students (grade > 80):**
+- Student: Alice, Grade: 85
+- Student: Charlie, Grade: 92
+- Student: Umu, Grade: 88
 
-Students Sorted by Grade (Descending):
-Student: Charlie, Grade: 92
-Student: Umu, Grade: 88
-Student: Alice, Grade: 85
-Student: Bob, Grade: 78
-Student: Hawa, Grade: 74
+**Students Sorted by Grade (Descending):**
+- Student: Charlie, Grade: 92
+- Student: Umu, Grade: 88
+- Student: Alice, Grade: 85
+- Student: Bob, Grade: 78
+- Student: Hawa, Grade: 74
 
 🤝 Contributing
-
 Feel free to fork the repository and submit pull requests to improve the program. 💡
