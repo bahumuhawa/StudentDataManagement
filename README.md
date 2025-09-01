@@ -1,4 +1,4 @@
-# 🎓 Student Grades Management
+# 🎓 Student Data Management
 
 A simple Python program to manage student grades. This program allows you to:
 
